@@ -1,0 +1,16 @@
+{
+	"namespace": "DataDriverTestMod",
+	"displayName": "Data Driver Test Mod",
+	"version": "1.0.0",
+	"synchronyVersion": "3.7.1",
+	"description": "No description given.",
+	"author": "MacaylaMarvelous81",
+	"dependencies": {
+		"DataDriver": "1.0.0"
+	},
+	"api": {"scriptPath":""},
+	"icon": "DataDriverTestModIcon.png",
+	"banner": "DataDriverTestModBanner.png",
+	"tags": [],
+	"name": "DataDriverTestMod"
+}

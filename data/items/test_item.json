@@ -1,0 +1,13 @@
+{
+	"name": "TestItem",
+	"hint": "This is a test item!!",
+	"slot": "head",
+	"components": {
+		"friendlyName": {
+			"name": "Test Item"
+		},
+		"sprite": {
+			"texture": "mods/DataDriverTestMod/sprites/TestItem.png"
+		}
+	}
+}
